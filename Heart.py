@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To lovehacker
+#The Credit For This Code Goes To heart_hacker
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2022
 
@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:love_hacker
+#Dev:heart_hacker
 ##### LOGO #####
 logo = """
        \033[1;91m:██████╗  ██████╗ ██████╗ ██████╗ 
